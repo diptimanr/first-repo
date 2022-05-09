@@ -1,3 +1,2 @@
 # first-repo
-My first Git repository
-Edited and committed
+Test repo for git command demo.
